@@ -1,6 +1,7 @@
 # 📊 HR Analysis Dashboard - Microsoft Excel
 
-Transforming raw HR data into workforce insights using Excel Pivot Tables, dynamic charts, and interactive dashboard design.
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
