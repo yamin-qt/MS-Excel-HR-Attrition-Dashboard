@@ -108,6 +108,10 @@ An HR dashboard like this helps organizations:
 - How Pivot Table architecture drives a reusable, dynamic dashboard
 - The importance of layout and visual hierarchy in dashboard design
 - How to design for a non-technical audience — clarity over complexity
+
+<img width="1381" height="578" alt="image" src="https://github.com/user-attachments/assets/659036c5-9c42-48c7-914b-4d945f2ff1c8" />
+
+
 - Why data cleaning is 60% of any analytics project
 
 ---
